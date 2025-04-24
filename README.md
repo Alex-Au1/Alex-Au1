@@ -14,4 +14,4 @@ The following are some publically available pages I made for Health Canada
 
 | Name | Public URL | Repo |
 | -- | -- | -- |
-| Food Source Contribution Tool | https://health-infobase.canada.ca/nutrition/food-source-contribution-tool/ | https://github.com/BFSSI-Bioinformatics-Lab/BFSSI-CCHS-total-usual-intakes-tool  |
+| Food Source Contribution Tool | https://health-infobase.canada.ca/nutrition/food-source-contribution-tool/ | https://github.com/BFSSI-Bioinformatics-Lab/CCHS-food-source-contribution  |
